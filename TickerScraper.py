@@ -1,12 +1,3 @@
-# Jaiden Morrison
-# CSCI 236
-# 3/6/21
-# Program 04 - APIs and Web Scraping
-# 8
-# Issues trying to download images
-# status of the program - Runs API very well, the web scraping I had many difficulties with and is extremely simplistic
-
-
 import praw  # PRAW is the Reddit API's Python wrapper
 import re  # Used to clean up Strings
 import matplotlib.pyplot as plt  # Used to make bar graph
